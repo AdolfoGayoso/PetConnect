@@ -17,6 +17,12 @@ User Experience Design for PetConnect: Post your lost pet instantly and browse p
 In Temuco, pet adoption and temporary fostering systems are highly fragmented. Most coordination currently takes place through disconnected social media platforms such as WhatsApp and Instagram, which makes the process unreliable and difficult to manage. Moreover, there is no official platform where people can consistently publish or search for pets in need. This app seeks to address both of these problems by providing a central, trustworthy hub for adoption and fostering.
 
 ## 2. Team & Roles
+Ignacio Essus
+W. Alonso Chavez
+Marcelo Rebolledo                                                              
+Fernando Hernandez
+Adolfo Gayoso
+
 ## 3. Strategy
 ## 4. Scope
 ## 5. Structure
