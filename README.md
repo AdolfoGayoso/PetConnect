@@ -23,3 +23,5 @@ User Experience Design for PetConnect: Post your lost pet instantly and browse p
     7.1. Interface Evolution
     7.2. Results of the Heuristic Evaluation
     7.3. High Definition Interfaces
+
+# 1. Introduction
