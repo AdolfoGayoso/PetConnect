@@ -4,8 +4,8 @@ User Experience Design for PetConnect: Post your lost pet instantly and browse p
 
 ## Index
 
-1. [Introduction](#-introduction)
-2. [Team & Roles](#-team-roles)
+1. Introduction
+2. Team & Roles
 3. Strategy
 4. Scope
 5. Structure
