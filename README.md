@@ -7,10 +7,12 @@ User Experience Design for PetConnect: Post your lost pet instantly and browse p
 1. Introduction
 2. Team & Roles
 3. Strategy
-4. Scope
-5. Structure
-6. Skeleton
-7. Surface
+  3.1. Value Canvas
+  3.2  UX Personas 
+5. Scope
+6. Structure
+7. Skeleton
+8. Surface
 
 
 ## 1. Introduction
