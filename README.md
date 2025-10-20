@@ -82,7 +82,7 @@ To ensure PetConnect is easy and reliable, the Navigation must be simple. This s
 
 ---
 
-## 8. Mockups
+## 8. Wireframes
 
 The Wireframes section shows the basic structure and layout of the app. These simple, low-fidelity drawings focus only on where the content and functions will go, not on how they look. This step ensures the app's navigation and key user flows are efficient and clear before we add any visual design or color.
 
@@ -101,7 +101,15 @@ The Wireframes section shows the basic structure and layout of the app. These si
 
 ---
 
-## 9. Wireframes
+## 9. Mockups
+
+The Mockups section represents the final visual design of the PetConnect application. Building upon the approved wireframes and navigation structure, these high-fidelity screens incorporate the defined color palette, typography, and imagery. They demonstrate the aesthetic and user interface (UI) choices, providing a realistic preview of the final product and ensuring the visual design aligns with the goal of creating a trustworthy, simple, and engaging platform for the community.
+
+![home](assets/mockups/home.png)
+
+![login](assets/mockups/login.png)
+
+
 
 
 ---
