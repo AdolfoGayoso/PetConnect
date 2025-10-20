@@ -109,7 +109,18 @@ The Mockups section represents the final visual design of the PetConnect applica
 
 ![login](assets/mockups/login.png)
 
+![register](assets/mockups/register.png)
 
+![landing](assets/mockups/landing.png)
 
+![map](assets/mockups/map.png)
+
+![messages](assets/mockups/messages.png)
+
+![profile](assets/mockups/profile.png)
+
+![search](assets/mockups/search-to-adopt.png)
+
+![animal-details](assets/mockups/animal-details.png)
 
 ---
