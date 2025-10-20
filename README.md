@@ -62,7 +62,7 @@ Defining the solution's scope is crucial to ensure the design remains focused on
 To develop a solution that truly meets user expectations and rises above the existing chaotic landscape in Temuco, an exhaustive competitive analysis, or benchmarking, is essential. This process involves thoroughly examining current apps and platforms—especially those focused on lost pets and adoption—to identify their crucial strengths and significant shortcomings. By learning from competitors' successful features, we can integrate proven functionalities into PetConnect while strategically avoiding their design or process flaws. This objective perspective will ensure our application is not only reliable but also offers a superior, market-aligned user experience that directly addresses the fragmented systems our users currently face.
 
 ##### Persona 3:
-![Benchmark](assets/benchmark/benchmark.png)
+![Benchmark](assets/benchmark/benchmark-v1.png)
 
 ---
 
