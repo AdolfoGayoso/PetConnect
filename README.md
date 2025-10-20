@@ -24,7 +24,7 @@ In Temuco, pet adoption and temporary fostering systems are highly fragmented. M
 ---
 
 ## 2. Team & Roles
-- Ignacio Essus - Annalist
+- Ignacio Essus - Analyst
 - W. Alonso Chavez - Designer
 - Marcelo Rebolledo - Presenter                                                    
 - Fernando Hernandez - Designer
@@ -35,7 +35,7 @@ In Temuco, pet adoption and temporary fostering systems are highly fragmented. M
 ## 3. Strategy
 The first step under the Elements of User Experience is the Strategy plane, which focuses on incorporating not only what the people running the application want to get out of it but what the users want to get out of the application.
 
-From this aproach, a Value Proposition Canvas is used to determined what the people wants to earn from our solution and how are we gonna respond to those needs.
+From this approach, a Value Proposition Canvas is used to determine what the people wants to earn from our solution and how are we gonna respond to those needs.
 
 ##### Value Canvas:
 ![value-canvas](assets/value-canvas/value-canvas-v1.png)
