@@ -11,8 +11,6 @@ User Experience Design for PetConnect: Post your lost pet instantly and browse p
 - [5. Benchmark](#5-Benchmark)
 - [6. Customer Journey Map](#6-customer-journey-map)
 - [7. Navigation](#7-Navigation)
-  - [7.1. Initial Aporach](#71-first-aproach)
-  - [7.2. Improved Navigation](#72-improved-navigation)
 - [8. Wireframes](#8-wireframes)
 - [9. Mockups](#9-mockups)
   - [9.1. Initial Aproach](#91-initial-aproach)
@@ -39,8 +37,8 @@ The first step under the Elements of User Experience is the Strategy plane, whic
 
 From this aproach, a Value Proposition Canvas is used to determined what the people wants to earn from our solution and how are we gonna respond to those needs.
 
-##### Value Canvas 3:
-![value-canva-v1](assets/value-canvas-v1.png)
+##### Value Canvas:
+![value-canvas](assets/value-canvas/value-canvas-v1.png)
 
 ---
 
@@ -59,7 +57,7 @@ Defining the solution's scope is crucial to ensure the design remains focused on
 
 ## 5. Benchmark
 
-To develop a solution that truly meets user expectations and rises above the existing chaotic landscape in Temuco, an exhaustive competitive analysis, or benchmarking, is essential. This process involves thoroughly examining current apps and platforms—especially those focused on lost pets and adoption—to identify their crucial strengths and significant shortcomings. By learning from competitors' successful features, we can integrate proven functionalities into PetConnect while strategically avoiding their design or process flaws. This objective perspective will ensure our application is not only reliable but also offers a superior, market-aligned user experience that directly addresses the fragmented systems our users currently face.
+To develop a solution that truly meets user expectations and rises above the existing chaotic landscape in Temuco, an exhaustive competitive analysis, or benchmarking, is essential. This process involves thoroughly examining current apps and platforms (especially those focused on lost pets and adoption) to identify their crucial strengths and significant shortcomings. By learning from competitors' successful features, we can integrate proven functionalities into PetConnect while strategically avoiding their design or process flaws. This objective perspective will ensure our application is not only reliable but also offers a superior, market-aligned user experience that directly addresses the fragmented systems our users currently face.
 
 ##### Persona 3:
 ![Benchmark](assets/benchmark/benchmark-v1.png)
@@ -68,8 +66,18 @@ To develop a solution that truly meets user expectations and rises above the exi
 
 ## 6. Customer Journey Map
 
+The Customer Journey Map visually outlines the end-to-end experience of our core user personas when trying to achieve their main goals—either adopting a pet or reporting a lost one. This map is vital for identifying current pain points and moments of frustration within the existing fragmented system. By charting the user's emotional state, actions, and touchpoints, we can precisely pinpoint the opportunities where PetConnect can introduce seamless features to eliminate friction and provide a trustworthy, centralized solution.
+
+##### Customer Journey Map:
+![Benchmark](assets/customer-journey-map/customer-journey-map-v1.png)
+
 ---
 
 ## 7. Navigation
+
+To ensure PetConnect is easy and reliable, the Navigation must be simple. This section details the app's structure and layout, focusing on making key actions (like reporting a pet or browsing for adoption) achievable in the fewest steps possible. Our goal is to create an intuitive information architecture that eliminates confusion, minimizes user effort, and builds quick trust.
+
+##### Navigation:
+![Benchmark](assets/navigation/navigation-v1.png)
 
 ---
