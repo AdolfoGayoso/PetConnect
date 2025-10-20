@@ -88,10 +88,15 @@ The Wireframes section shows the basic structure and layout of the app. These si
 
 ##### Wireframes:
 ![adopt](assets/wireframes/adopt.png)
+
 ![register](assets/wireframes/register.png)
+
 ![home](assets/wireframes/home.png)
+
 ![adopt](assets/wireframes/adopt.png)
+
 ![lost-map](assets/wireframes/lost-map.png)
+
 ![create-report](assets/wireframes/create-report.png)
 
 ---
