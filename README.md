@@ -11,10 +11,8 @@ User Experience Design for PetConnect: Post your lost pet instantly and browse p
 - [5. Benchmark](#5-Benchmark)
 - [6. Customer Journey Map](#6-customer-journey-map)
 - [7. Navigation](#7-Navigation)
-- [8. Wireframes](#8-wireframes)
-- [9. Mockups](#9-mockups)
-  - [9.1. Initial Aproach](#91-initial-aproach)
-  - [9.2. Improved Mockups](#92-improved-mockups)
+- [8. Mockups](#8-mockups)
+- [9. HD Interfaces](#9-wireframes)
 
 ---
 
@@ -79,5 +77,13 @@ To ensure PetConnect is easy and reliable, the Navigation must be simple. This s
 
 ##### Navigation:
 ![Benchmark](assets/navigation/navigation-v1.png)
+
+---
+
+## 8. Mockups
+
+---
+
+## 9. HD Interfaces
 
 ---
