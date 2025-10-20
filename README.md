@@ -58,7 +58,7 @@ Defining the solution's scope is crucial to ensure the design remains focused on
 To develop a solution that truly meets user expectations and rises above the existing chaotic landscape in Temuco, an exhaustive competitive analysis, or benchmarking, is essential. This process involves thoroughly examining current apps and platforms (especially those focused on lost pets and adoption) to identify their crucial strengths and significant shortcomings. By learning from competitors' successful features, we can integrate proven functionalities into PetConnect while strategically avoiding their design or process flaws. This objective perspective will ensure our application is not only reliable but also offers a superior, market-aligned user experience that directly addresses the fragmented systems our users currently face.
 
 ##### Persona 3:
-![Benchmark](assets/benchmark/benchmark-v1.png)
+![benchmark](assets/benchmark/benchmark-v1.png)
 
 ---
 
@@ -67,7 +67,7 @@ To develop a solution that truly meets user expectations and rises above the exi
 The Customer Journey Map visually outlines the end-to-end experience of our core user personas when trying to achieve their main goals—either adopting a pet or reporting a lost one. This map is vital for identifying current pain points and moments of frustration within the existing fragmented system. By charting the user's emotional state, actions, and touchpoints, we can precisely pinpoint the opportunities where PetConnect can introduce seamless features to eliminate friction and provide a trustworthy, centralized solution.
 
 ##### Customer Journey Map:
-![Benchmark](assets/customer-journey-map/customer-journey-map-v1.png)
+![customer-journey-map](assets/customer-journey-map/customer-journey-map-v1.png)
 
 ---
 
@@ -76,7 +76,7 @@ The Customer Journey Map visually outlines the end-to-end experience of our core
 To ensure PetConnect is easy and reliable, the Navigation must be simple. This section details the app's structure and layout, focusing on making key actions (like reporting a pet or browsing for adoption) achievable in the fewest steps possible. Our goal is to create an intuitive information architecture that eliminates confusion, minimizes user effort, and builds quick trust.
 
 ##### Navigation:
-![Benchmark](assets/navigation/navigation-v1.png)
+![navigation](assets/navigation/navigation-v1.png)
 
 ---
 
