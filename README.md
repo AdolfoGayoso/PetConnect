@@ -41,10 +41,13 @@ From this aproach, a Value Proposition Canvas is used to determined what the peo
 
 ![value-canva-v1](assets/value-canvas-v1.png)
 
-UX Personas
+The UX personas used for this project are:
 
+##### Persona 1:
 ![UX-persona-1](assets/UX-Personas/persona-1-v1.png)
+##### Persona 2:
 ![UX-persona-2](assets/UX-Personas/persona-2-v1.png)
+##### Persona 3:
 ![UX-persona-3](assets/UX-Personas/persona-3-v1.png)
 
 ---
