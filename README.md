@@ -1,5 +1,7 @@
 # PetConnect - UXD
 
+![logo](assets/logo.png)
+
 User Experience Design for PetConnect: Post your lost pet instantly and browse pets for adoption in Temuco.
 
 ## Index
