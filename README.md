@@ -15,6 +15,7 @@ User Experience Design for PetConnect: Post your lost pet instantly and browse p
 - [7. Navigation](#7-Navigation)
 - [8. Wireframes](#8-wireframes)
 - [9. Mockups](#9-mockups)
+- [10. Accesibility](#10-mockups)
 
 ---
 
@@ -59,7 +60,7 @@ Defining the solution's scope is crucial to ensure the design remains focused on
 
 To develop a solution that truly meets user expectations and rises above the existing chaotic landscape in Temuco, an exhaustive competitive analysis, or benchmarking, is essential. This process involves thoroughly examining current apps and platforms (especially those focused on lost pets and adoption) to identify their crucial strengths and significant shortcomings. By learning from competitors' successful features, we can integrate proven functionalities into PetConnect while strategically avoiding their design or process flaws. This objective perspective will ensure our application is not only reliable but also offers a superior, market-aligned user experience that directly addresses the fragmented systems our users currently face.
 
-##### Persona 3:
+##### Benchmark:
 ![benchmark](assets/benchmark/benchmark-v1.png)
 
 ---
@@ -105,6 +106,8 @@ The Wireframes section shows the basic structure and layout of the app. These si
 
 The Mockups section represents the final visual design of the PetConnect application. Building upon the approved wireframes and navigation structure, these high-fidelity screens incorporate the defined color palette, typography, and imagery. They demonstrate the aesthetic and user interface (UI) choices, providing a realistic preview of the final product and ensuring the visual design aligns with the goal of creating a trustworthy, simple, and engaging platform for the community.
 
+#### First Approach:
+
 ![home](assets/mockups/home.png)
 
 ![login](assets/mockups/login.png)
@@ -124,3 +127,28 @@ The Mockups section represents the final visual design of the PetConnect applica
 ![animal-details](assets/mockups/animal-details.png)
 
 ---
+
+## 10. Accesibility
+
+---
+
+TODO:
+
+- Entrega tardía (se acepta con descuento)
+- Canva de valor en español.
+- En lugar de añadir tantas (o todas) sus UI explicar algunas UI principales y funcionalidades clave en la sección final.
+- Redundancia en inicio de sesión (omitir el primer paso para evitar alargar tanto el proceso)
+- ¿Cómo se ve un caso urgente en el mapa? es necesario destacarlo, además ¿Qué define que un caso sea urgente?
+- ¿Qué sucede cuando termina un reporte? (se encuentra al dueño del animal perdido) ¿Cómo cierran casos?. ¿Si le doy a adoptar que pasa?
+- Al ver mis reportes me da la opción de responder (a mi mismo?) quizás dar opción de editar o marcar como encontrado/caso cerrado etc.
+- Falta evidenciar un avance en el readme entre wireframe y mockup final (mencionar qué cambió, que sacaron, etc.)
+- En el benchmark mencionan quizzes pero no se ven en el producto, el servicio de emergencia no queda claro. mencionan verificación pero no se ve algo similar (ni siquiera el rut) hablan de encuentros en areas seguras pero ninguna funcionalidad verifica esto.
+- Las interfaces están bien pero falta que se alineen mejor con lo que prometen sus entregables.
+				
+				
+				
+				
+				
+				
+				
+				
