@@ -94,11 +94,41 @@ The Wireframes section shows the basic structure and layout of the app. These si
 
 ##### Wireframes:
 
+![adopt](assets/wireframes/adopt.png)
+
+![register](assets/wireframes/register.png)
+
+![home](assets/wireframes/home.png)
+
+![adopt](assets/wireframes/adopt.png)
+
+![lost-map](assets/wireframes/lost-map.png)
+
+![create-report](assets/wireframes/create-report.png)
+
 ---
 
 ## 9. Mockups
 
 The Mockups section represents the final visual design of the PetConnect application. Building upon the approved wireframes and navigation structure, these high-fidelity screens incorporate the defined color palette, typography, and imagery. They demonstrate the aesthetic and user interface (UI) choices, providing a realistic preview of the final product and ensuring the visual design aligns with the goal of creating a trustworthy, simple, and engaging platform for the community.
+
+![home](assets/mockups/home.png)
+
+![login](assets/mockups/login.png)
+
+![register](assets/mockups/register.png)
+
+![landing](assets/mockups/landing.png)
+
+![map](assets/mockups/map.png)
+
+![messages](assets/mockups/messages.png)
+
+![profile](assets/mockups/profile.png)
+
+![search](assets/mockups/search-to-adopt.png)
+
+![animal-details](assets/mockups/animal-details.png)
  
 #### 9.1 First Approach:
 
