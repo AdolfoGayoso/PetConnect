@@ -108,3 +108,7 @@ The Mockups section represents the final visual design of the PetConnect applica
 ## 10. Heuristics Evaluation Results
 
 ---
+
+## 11. Accesibility
+
+--- 
