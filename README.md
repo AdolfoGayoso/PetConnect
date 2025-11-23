@@ -110,7 +110,7 @@ The Mockups section represents the final visual design of the PetConnect applica
 
 A Heuristic Evaluation was performed on the First Approach mockups using Jakob Nielsen's 10 Usability Heuristics. This systematic review by independent evaluators was crucial for objectively measuring the design's usability and identifying potential critical friction points. The goal was to pinpoint necessary refinements to ensure the final product offers an efficient, intuitive, and high-quality user experience before moving into the development phase.
 
-##### 10.1 Top of problems identified :
+#### 10.1 Top of problems identified :
 
 The top problems identified by the heuristic evaluation were primarily focused on user onboarding and critical interaction points:
 
@@ -120,9 +120,9 @@ The top problems identified by the heuristic evaluation were primarily focused o
 4. Invisible Contact Information: Critical contact details for posting users were not immediately visible or clearly accessible on the pet detail screen.
 5. Missing Show/Hide Password Toggle: Users could not easily review their entered password for correctness.
 
-#### Modifications Implemented:
+##### Modifications Implemented:
 
-##### 10.2 SUS Evaluation Results:
+#### 10.2 SUS Evaluation Results:
 
 ##### Average SUS Score: 71.8
 
