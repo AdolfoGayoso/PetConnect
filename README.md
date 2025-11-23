@@ -15,7 +15,9 @@ User Experience Design for PetConnect: Post your lost pet instantly and browse p
 - [7. Navigation](#7-Navigation)
 - [8. Wireframes](#8-wireframes)
 - [9. Mockups](#9-mockups)
-- [10. Accesibility](#10-accesibility)
+- [10. Heuristics Evaluation Results](#10-heuristics-evaluation)
+- [11. Accesibility](#11-accesibility)
+
 
 ---
 
@@ -88,6 +90,8 @@ To ensure PetConnect is easy and reliable, the Navigation must be simple. This s
 The Wireframes section shows the basic structure and layout of the app. These simple, low-fidelity drawings focus only on where the content and functions will go, not on how they look. This step ensures the app's navigation and key user flows are efficient and clear before we add any visual design or color.
 
 ##### Wireframes:
+
+###### First Approach:
 ![adopt](assets/wireframes/adopt.png)
 
 ![register](assets/wireframes/register.png)
@@ -131,12 +135,3 @@ The Mockups section represents the final visual design of the PetConnect applica
 ## 10. Accesibility
 
 ---
-
-				
-				
-				
-				
-				
-				
-				
-				
