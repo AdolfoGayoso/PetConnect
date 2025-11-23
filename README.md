@@ -18,9 +18,9 @@ User Experience Design for PetConnect: Post your lost pet instantly and browse p
     - [9.1 First Approach](#9.1-first-approach)
     - [9.2 Updated Version](#9.2-updated-version)
 - [10. Heuristics Evaluation Results](#10-heuristics-evaluation-results)
-    - [10.1 Top of problems identified](#10.1-top-of-problems-identified)
-    - [10.2 SUS evaluation](#10.2-sus-evaluation)
-- [11. Accesibility](#11-accesibility)
+    - [10.1 Top of Problems Identified](#10.1-top-of-problems-identified)
+    - [10.2 SUS Evaluation Results](#10.2-sus-evaluation-results)
+- [11. Accessibility](#11-accessibility)
 
 ---
 
@@ -110,7 +110,7 @@ The Mockups section represents the final visual design of the PetConnect applica
 
 A Heuristic Evaluation was performed on the First Approach mockups using Jakob Nielsen's 10 Usability Heuristics. This systematic review by independent evaluators was crucial for objectively measuring the design's usability and identifying potential critical friction points. The goal was to pinpoint necessary refinements to ensure the final product offers an efficient, intuitive, and high-quality user experience before moving into the development phase.
 
-#### 10.1 Top of problems identified :
+#### 10.1 Top of Problems Identified:
 
 The top problems identified by the heuristic evaluation were primarily focused on user onboarding and critical interaction points:
 
