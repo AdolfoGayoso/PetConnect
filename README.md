@@ -126,12 +126,12 @@ The top problems identified by the heuristic evaluation were primarily focused o
 
 ##### Average SUS Score: 71.8
 
-This score places the design above the industry average SUS score of 68. This indicates that users generally find the system acceptable and above the threshold for poor usability.
+This score falls within the acceptable range on the SUS scale. It indicates that, generally, users find the system usable and functional. While the score is acceptable, there is clear room for improvement. Design efforts should continue to focus on streamlining core user flows (Adoption/Reporting) and enhancing clarity to achieve a score in the "Good" or "Excellent" range.
 
 ---
 
-## 11. Accesibility
+## 11. Accessibility
 
-Accesibility is a core consideration for PetConnect to ensure all members of the Temuco community can easily use the platform, regardless of their abilities.
+Accessibility is a core consideration for PetConnect to ensure all members of the Temuco community can easily use the platform, regardless of their abilities.
 
 --- 
