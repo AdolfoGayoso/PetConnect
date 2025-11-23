@@ -18,8 +18,9 @@ User Experience Design for PetConnect: Post your lost pet instantly and browse p
     - [9.1 First Approach](#9.1-first-approach)
     - [9.2 Updated Version](#9.2-updated-version)
 - [10. Heuristics Evaluation Results](#10-heuristics-evaluation-results)
+    - [10.1 Top of problems identified](#10.1-top-of-problems-identified)
+    - [10.2 SUS evaluation](#10.2-sus-evaluation)
 - [11. Accesibility](#11-accesibility)
-
 
 ---
 
@@ -98,7 +99,7 @@ The Wireframes section shows the basic structure and layout of the app. These si
 ## 9. Mockups
 
 The Mockups section represents the final visual design of the PetConnect application. Building upon the approved wireframes and navigation structure, these high-fidelity screens incorporate the defined color palette, typography, and imagery. They demonstrate the aesthetic and user interface (UI) choices, providing a realistic preview of the final product and ensuring the visual design aligns with the goal of creating a trustworthy, simple, and engaging platform for the community.
-
+ 
 #### 9.1 First Approach:
 
 #### 9.2 Updated Version:
@@ -107,8 +108,30 @@ The Mockups section represents the final visual design of the PetConnect applica
 
 ## 10. Heuristics Evaluation Results
 
+A Heuristic Evaluation was performed on the First Approach mockups using Jakob Nielsen's 10 Usability Heuristics. This systematic review by independent evaluators was crucial for objectively measuring the design's usability and identifying potential critical friction points. The goal was to pinpoint necessary refinements to ensure the final product offers an efficient, intuitive, and high-quality user experience before moving into the development phase.
+
+##### 10.1 Top of problems identified :
+
+The top problems identified by the heuristic evaluation were primarily focused on user onboarding and critical interaction points:
+
+1. Lack of Password Clarity: The password requirements (length, special characters, etc.) were not clearly visible during input.
+2. Missing Password Confirmation: The sign-up form did not require a double-entry field to confirm the password, leading to potential input errors.
+3. Ambiguous "Adopt" Button: The main "Adopt" button lacked context or an explanation of the subsequent process or steps involved (e.g., direct contact vs. application form).
+4. Invisible Contact Information: Critical contact details for posting users were not immediately visible or clearly accessible on the pet detail screen.
+5. Missing Show/Hide Password Toggle: Users could not easily review their entered password for correctness.
+
+#### Modifications Implemented:
+
+##### 10.2 SUS Evaluation Results:
+
+##### Average SUS Score: 71.8
+
+This score places the design above the industry average SUS score of 68. This indicates that users generally find the system acceptable and above the threshold for poor usability.
+
 ---
 
 ## 11. Accesibility
+
+Accesibility is a core consideration for PetConnect to ensure all members of the Temuco community can easily use the platform, regardless of their abilities.
 
 --- 
