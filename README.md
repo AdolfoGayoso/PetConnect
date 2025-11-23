@@ -15,7 +15,7 @@ User Experience Design for PetConnect: Post your lost pet instantly and browse p
 - [7. Navigation](#7-Navigation)
 - [8. Wireframes](#8-wireframes)
 - [9. Mockups](#9-mockups)
-- [10. Accesibility](#10-mockups)
+- [10. Accesibility](#10-accesibility)
 
 ---
 
