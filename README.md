@@ -91,7 +91,6 @@ The Wireframes section shows the basic structure and layout of the app. These si
 
 ##### Wireframes:
 
-###### First Approach:
 ![adopt](assets/wireframes/adopt.png)
 
 ![register](assets/wireframes/register.png)
