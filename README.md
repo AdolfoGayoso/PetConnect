@@ -132,18 +132,6 @@ The Mockups section represents the final visual design of the PetConnect applica
 
 ---
 
-TODO:
-
-- Entrega tardía (se acepta con descuento)
-- Canva de valor en español.
-- En lugar de añadir tantas (o todas) sus UI explicar algunas UI principales y funcionalidades clave en la sección final.
-- Redundancia en inicio de sesión (omitir el primer paso para evitar alargar tanto el proceso)
-- ¿Cómo se ve un caso urgente en el mapa? es necesario destacarlo, además ¿Qué define que un caso sea urgente?
-- ¿Qué sucede cuando termina un reporte? (se encuentra al dueño del animal perdido) ¿Cómo cierran casos?. ¿Si le doy a adoptar que pasa?
-- Al ver mis reportes me da la opción de responder (a mi mismo?) quizás dar opción de editar o marcar como encontrado/caso cerrado etc.
-- Falta evidenciar un avance en el readme entre wireframe y mockup final (mencionar qué cambió, que sacaron, etc.)
-- En el benchmark mencionan quizzes pero no se ven en el producto, el servicio de emergencia no queda claro. mencionan verificación pero no se ve algo similar (ni siquiera el rut) hablan de encuentros en areas seguras pero ninguna funcionalidad verifica esto.
-- Las interfaces están bien pero falta que se alineen mejor con lo que prometen sus entregables.
 				
 				
 				
