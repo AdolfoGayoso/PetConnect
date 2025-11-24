@@ -137,15 +137,13 @@ The main changes implemented in this first set of mockups, compared to the initi
 - Loading Screen: A dedicated loading screen was designed to provide a smoother experience while data is being retrieved.
 - Additional Views: Complementary screens not detailed in the initial wireframes (e.g., success/error states or simplified onboarding) were created to ensure a complete user experience (UX) and guide the user through all application flows.
 
-1. Principal Views:
+#### Principal Views:
 
 ![home](assets/mockups/version-1/home.png)
 
 ![login](assets/mockups/version-1/login.png)
 
 ![map](assets/mockups/version-1/map.png)
-
-![messages](assets/mockups/version-1/messages.png)
 
 ![profile](assets/mockups/version-1/profile.png)
 
@@ -154,6 +152,23 @@ The main changes implemented in this first set of mockups, compared to the initi
 ![animal-details](assets/mockups/version-1/animal-details.png)
 
 #### 9.2 Updated Version:
+
+This updated version reflects key refinements based on the Heuristic Evaluation and the goal of optimizing core user flows. The primary changes focus on clarity, visual consistency, and enhanced functionality for the user:
+- Home Screen Redesign: The initial Home screen was restructured, incorporating the welcoming text and primary calls-to-action previously located on the Landing screen to improve user onboarding and immediate task access.
+- Navigation Bar Refinement: The global navigation bar was redesigned and standardized to ensure consistency across all primary views, improving orientation and access to key features like Map, Search, and Profile.
+- Report Map Functionality: Significant detail was added to the Report Map, including the integration of Priority Tags on pet report markers. This enhancement improves the deployment of report details and allows users to quickly assess the urgency of a lost pet situation.
+- Color Standardization: The application's color usage was standardized across all screens to improve visual consistency and reinforce the brand identity defined in the design system.
+- New Settings View: A dedicated, comprehensive Settings view was designed (as discussed previously) to offer users centralized control over their account, notifications, and application preferences.
+
+#### Principal Views:
+
+![home](assets/mockups/version-2/home.png)
+
+![map](assets/mockups/version-2/map.png)
+
+![report](assets/mockups/version-2/report.png)
+
+![search](assets/mockups/version-2/search.png)
 
 ---
 
@@ -172,6 +187,10 @@ The top problems identified by the heuristic evaluation were primarily focused o
 5. Missing Show/Hide Password Toggle: Users could not easily review their entered password for correctness.
 
 ##### Modifications Implemented:
+
+The register screen was modified to enhance user registration, directly addressing the clarity and security issues identified in the heuristic evaluation.
+
+![register](assets/mockups/version-2/register.png)
 
 #### 10.2 SUS Evaluation Results:
 
