@@ -185,10 +185,18 @@ This score falls within the acceptable range on the SUS scale. It indicates that
 
 ## 11. Accessibility
 
-Accessibility is a core consideration for PetConnect to ensure all members of the Temuco community can easily use the platform, regardless of their abilities. Specific accessibility initiatives implemented
+Accessibility is a core consideration for PetConnect to ensure all members of the Temuco community can easily use the platform, regardless of their abilities. Specific accessibility initiatives implemented.
 
-1. Dark Mode Implementation: A dedicated Dark Mode theme was integrated. This feature significantly improves readability and reduces eye strain for users in low-light environments and is particularly beneficial for users with light sensitivity or certain visual impairments.
+##### Base Settings View:
 
-2. Optimized Text Sizing and Scaling: The text size throughout the application was carefully selected to ensure high legibility. Furthermore, the design supports native operating system text scaling features, allowing users to adjust text size without breaking the layout or navigation.  
+![base-settings](assets/mockups/version-2/settings.png)
+
+1. Dark Mode Implementation: A dedicated Dark Mode theme was implemented. This feature significantly improves readability and reduces eye strain for users in low-light environments and is particularly beneficial for users with light sensitivity or certain visual impairments.
+
+![dark-mode](assets/mockups/version-2/settings-dark-mode.png)
+
+2. Optimized Text Sizing and Scaling: The text size throughout the application was carefully selected to ensure high legibility. Furthermore, the design supports native operating system text scaling features, allowing users to adjust text size without breaking the layout or navigation.
+
+![bigger-text](assets/mockups/version-2/settings-bigger-text.png)
 
 --- 
