@@ -121,7 +121,7 @@ The main changes implemented in this first set of mockups, compared to the initi
 - Loading Screen: A dedicated loading screen was designed to provide a smoother experience while data is being retrieved.
 - Additional Views: Complementary screens not detailed in the initial wireframes (e.g., success/error states or simplified onboarding) were created to ensure a complete user experience (UX) and guide the user through all application flows.
 
-1. 
+1. Principal Views:
 
 ![home](assets/mockups/version-1/home.png)
 
