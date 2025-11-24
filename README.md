@@ -126,6 +126,8 @@ The Wireframes section shows the basic structure and layout of the app. These si
 
 The Mockups section represents the final visual design of the PetConnect application. Building upon the approved wireframes and navigation structure, these high-fidelity screens incorporate the defined color palette, typography, and imagery. They demonstrate the aesthetic and user interface (UI) choices, providing a realistic preview of the final product and ensuring the visual design aligns with the goal of creating a trustworthy, simple, and engaging platform for the community.
 
+Only principal views are shown here. All views can be found in the [Figma Project](https://www.figma.com/design/Do3DHW3oMERqSDsc13hMZo/Petconnect?node-id=446-663&t=Iudx6jwwtak4SzZp-1)
+
 #### 9.1 First Approach:
 
 The main changes implemented in this first set of mockups, compared to the initial wireframes, focus on aesthetics and interface clarity.
@@ -140,10 +142,6 @@ The main changes implemented in this first set of mockups, compared to the initi
 ![home](assets/mockups/version-1/home.png)
 
 ![login](assets/mockups/version-1/login.png)
-
-![register](assets/mockups/version-1/register.png)
-
-![landing](assets/mockups/version-1/landing.png)
 
 ![map](assets/mockups/version-1/map.png)
 
