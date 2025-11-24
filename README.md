@@ -114,6 +114,15 @@ The Mockups section represents the final visual design of the PetConnect applica
 
 #### 9.1 First Approach:
 
+The main changes implemented in this first set of mockups, compared to the initial wireframes, focus on aesthetics and interface clarity.
+- Information Layout: The distribution of content within the application's key elements was optimized to improve readability and visual hierarchy.
+- Visual Identity: The final color palette was defined, and specific icons were integrated to support navigation and clarify user actions.
+- Enhanced User Experience (UX):
+- Loading Screen: A dedicated loading screen was designed to provide a smoother experience while data is being retrieved.
+- Additional Views: Complementary screens not detailed in the initial wireframes (e.g., success/error states or simplified onboarding) were created to ensure a complete user experience (UX) and guide the user through all application flows.
+
+1. 
+
 ![home](assets/mockups/version-1/home.png)
 
 ![login](assets/mockups/version-1/login.png)
