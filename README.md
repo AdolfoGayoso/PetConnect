@@ -112,25 +112,25 @@ The Wireframes section shows the basic structure and layout of the app. These si
 
 The Mockups section represents the final visual design of the PetConnect application. Building upon the approved wireframes and navigation structure, these high-fidelity screens incorporate the defined color palette, typography, and imagery. They demonstrate the aesthetic and user interface (UI) choices, providing a realistic preview of the final product and ensuring the visual design aligns with the goal of creating a trustworthy, simple, and engaging platform for the community.
 
-![home](assets/mockups/home.png)
-
-![login](assets/mockups/login.png)
-
-![register](assets/mockups/register.png)
-
-![landing](assets/mockups/landing.png)
-
-![map](assets/mockups/map.png)
-
-![messages](assets/mockups/messages.png)
-
-![profile](assets/mockups/profile.png)
-
-![search](assets/mockups/search-to-adopt.png)
-
-![animal-details](assets/mockups/animal-details.png)
- 
 #### 9.1 First Approach:
+
+![home](assets/mockups/version-1/home.png)
+
+![login](assets/mockups/version-1/login.png)
+
+![register](assets/mockups/version-1/register.png)
+
+![landing](assets/mockups/version-1/landing.png)
+
+![map](assets/mockups/version-1/map.png)
+
+![messages](assets/mockups/version-1/messages.png)
+
+![profile](assets/mockups/version-1/profile.png)
+
+![search](assets/mockups/version-1/search-to-adopt.png)
+
+![animal-details](assets/mockups/version-1/animal-details.png)
 
 #### 9.2 Updated Version:
 
